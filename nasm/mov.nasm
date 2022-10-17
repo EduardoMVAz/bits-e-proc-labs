@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ; Arquivo: mov.nasm
 ; Curso: Bits e Processadores
 ; Criado por: Eduardo Mendes Vaz
